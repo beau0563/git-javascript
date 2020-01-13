@@ -1,2 +1,3 @@
-# Git JavaScript 
+# Git JavaScript
+
 ## Tressa Beauvais
